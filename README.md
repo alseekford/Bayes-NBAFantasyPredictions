@@ -57,23 +57,17 @@ Neil Antrassian, Noah Dunn, Anne Louise Seekford
 
 #### Notebook Files:
 
-```FinalProject copey.ipynb```: 
+```FinalProject copey.ipynb```: A notebook used for cleaning and adjusting NBA player data - not useful now that final CSV files have been created
 
-```Hierarchical_Model.ipynb```: 
+```Hierarchical_Model.ipynb```: The first iteration of this notebook - used for exploratory analysis between model types, predictor variables, and computation methods
 
-```Hierarchical_Model_1.ipynb```: 
-
-```NormalPreds.ipynb```: 
+```Hierarchical_Model_1.ipynb```: The second iteration of this notebook - used for exploratory analysis between model types, predictor variables, and computation methods
 
 ```SaturdayModel.ipynb```: 
 
 ```SaturdayModwl.ipynb```: 
 
-
-
-
-
-
+```NormalPreds.ipynb```: This is the final notebook, containing the final datasets being used and the final hierarchical pymc model
 
 
 
