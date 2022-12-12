@@ -59,7 +59,7 @@ Neil Antrassian, Noah Dunn, Anne Louise Seekford
 
 #### Notebook Files:
 
-```FinalProject copey.ipynb```: A notebook used for cleaning and adjusting NBA player data - not useful now that final CSV files have been created
+```FinalProject copy.ipynb```: A notebook used for cleaning and adjusting NBA player data - not useful now that final CSV files have been created
 
 ```Hierarchical_Model.ipynb```: The first iteration of this notebook - used for exploratory analysis between datasets, model types, predictor variables, and computation methods
 
