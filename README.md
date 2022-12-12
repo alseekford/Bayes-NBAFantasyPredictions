@@ -7,7 +7,6 @@ Neil Antrassian, Noah Dunn, Anne Louise Seekford
 
 
 ### Data
-Note: we can delete whatever data we don't use as predictors also
 
 
 ```RANK```: player rank  
@@ -27,6 +26,41 @@ Note: we can delete whatever data we don't use as predictors also
 ```VI```: Versatility Index = Versatility index is a metric that measures a player’s ability to produce in points, assists, and rebounds. The average player will score around a five on the index, while top players score above 10  
 ```ORTG```: Offensive RatingIndividual offensive rating is the number of points produced by a player per 100 total individual possessions  
 ```DRTG```: Defensive RatingIndividual defensive rating estimates how many points the player allowed per 100 possessions he individually faced while staying on the court  
+
+
+
+### Using the Files
+
+#### Data Files:
+
+```20-21BoxMetrics.xlsx```: 
+```21reg_season.xlsx```: 
+```Use_This_WithPM.csv```: 
+```all-player_game_stats.csv```: 
+```game1.csv```: 
+```kaggleactive_players_2.csv```: 
+```kaggleplayers.csv```: 
+```player_game1```: 
+```player_game_stats.csv```: 
+```players.csv```: 
+
+
+#### Notebook Files:
+
+```FinalProject copey.ipynb```: 
+```Hierarchical_Model.ipynb```: 
+```Hierarchical_Model_1.ipynb```: 
+```NormalPreds.ipynb```: 
+```SaturdayModel.ipynb```: 
+```SaturdayModwl.ipynb```: 
+
+
+
+
+
+
+
+
 
 
 
