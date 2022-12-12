@@ -10,8 +10,8 @@ Neil Antrassian, Noah Dunn, Anne Louise Seekford
 Note: we can delete whatever data we don't use as predictors also
 
 
- ```RANK```: player rank  
-```MIN%```: Minutes PercentagePercentage of team minutes used by a player while he was on the floor  
+-```RANK```: player rank  
+-```MIN%```: Minutes PercentagePercentage of team minutes used by a player while he was on the floor  
 ```USG%```: Usage RateUsage rate, a.k.a., usage percentage is an estimate of the percentage of team plays used by a player while he was on the floor  
 ```TO%```: Turnover RateA metric that estimates the number of turnovers a player commits per 100 possession  
 ```eFG%```: Effective Shooting PercentageWith eFG%, three-point shots made are worth 50% more than two-point shots made. eFG% Formula=(FGM+ (0.5 x 3PM))/FGA  
