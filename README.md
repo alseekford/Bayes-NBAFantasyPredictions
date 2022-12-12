@@ -67,7 +67,7 @@ Neil Antrassian, Noah Dunn, Anne Louise Seekford
 
 ```SaturdayModel.ipynb```: Used for exploratory data analysis, dataset cleaning, and model selection
 
-```NormalPreds.ipynb```: This is the final notebook, containing the final datasets being used and the final hierarchical pymc model. This is the notebook that will be used in order to inspect final model outputs.
+```NormalPreds.ipynb```: This is the final notebook, containing the final datasets being used and the final hierarchical pymc model. This is the notebook that will be used in order to inspect final model outputs. In order to use this file, simply load the notebook in the same folder as the data files in the Data folder.
 
 
 
