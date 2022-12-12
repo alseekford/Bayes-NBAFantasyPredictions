@@ -33,25 +33,25 @@ Neil Antrassian, Noah Dunn, Anne Louise Seekford
 
 #### Data Files:
 
-```20-21BoxMetrics.xlsx```: 
+```20-21BoxMetrics.xlsx```: 2021-2022 season average box score stats for NBA players 
 
-```21reg_season.xlsx```: 
+```21reg_season.xlsx```: 2021-2022 season average box score stats for NBA players
 
-```Use_This_WithPM.csv```: 
+```Use_This_WithPM.csv```: Game-by-Game player statistics
 
-```all-player_game_stats.csv```: 
+```all-player_game_stats.csv```: 2021-2022 season average box score stats for NBA players
 
-```game1.csv```: 
+```game1.csv```: Table for matching game_id from player_game1 and players, in order to look at player statistics on a game-by-game basis
 
-```kaggleactive_players_2.csv```: 
+```kaggleactive_players_2.csv```: Table of active NBA players, used to match player_id to actual player names and determine which teams each player played for
 
-```kaggleplayers.csv```: 
+```kaggleplayers.csv```: Table of all NBA players, used to match player_id to actual player names and determine which teams each player played for
 
-```player_game1```: 
+```player_game1```: Table with individual player performance statistics in each game during 2021
 
-```player_game_stats.csv```: 
+```player_game_stats.csv```: 2021-2022 season average box score stats for NBA players
 
-```players.csv```: 
+```players.csv```: Table for matching player_id in player_game1 with their actual names in game1
 
 
 
