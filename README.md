@@ -29,6 +29,4 @@ Note: we can delete whatever data we don't use as predictors also
     - ```DRTG```: Defensive RatingIndividual defensive rating estimates how many points the player allowed per 100 possessions he individually faced while staying on the court
     - 
 
-```
-
 
