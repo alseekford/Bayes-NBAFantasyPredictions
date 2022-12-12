@@ -37,7 +37,9 @@ Neil Antrassian, Noah Dunn, Anne Louise Seekford
 
 ```21reg_season.xlsx```: 2021-2022 season average box score stats for NBA players
 
-```Use_This_WithPM.csv```: Game-by-Game player statistics
+```Use_This_WithPM.csv```: Game-by-Game player statistics - most recent/updated version
+
+``Use_This.csv```: Game-by-Game player statistics - older/redundant version
 
 ```all-player_game_stats.csv```: 2021-2022 season average box score stats for NBA players
 
