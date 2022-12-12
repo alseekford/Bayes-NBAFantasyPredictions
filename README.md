@@ -34,25 +34,41 @@ Neil Antrassian, Noah Dunn, Anne Louise Seekford
 #### Data Files:
 
 ```20-21BoxMetrics.xlsx```: 
+
 ```21reg_season.xlsx```: 
+
 ```Use_This_WithPM.csv```: 
+
 ```all-player_game_stats.csv```: 
+
 ```game1.csv```: 
+
 ```kaggleactive_players_2.csv```: 
+
 ```kaggleplayers.csv```: 
+
 ```player_game1```: 
+
 ```player_game_stats.csv```: 
+
 ```players.csv```: 
+
 
 
 #### Notebook Files:
 
 ```FinalProject copey.ipynb```: 
+
 ```Hierarchical_Model.ipynb```: 
+
 ```Hierarchical_Model_1.ipynb```: 
+
 ```NormalPreds.ipynb```: 
+
 ```SaturdayModel.ipynb```: 
+
 ```SaturdayModwl.ipynb```: 
+
 
 
 
